@@ -19,12 +19,10 @@ permalink: /committees/
 <p>To be announced</p>
 
 <h2>Organising Committee</h2>
-<h2>Programme Committee Chairs</h2>
 <p><a href="https://www-users.cs.york.ac.uk/~raduc/">Radu Calinescu</a>, University of York, UK<br>
    <a href="https://nu.edu.kz/faculty/antonio-cerone">Antonio Cerone</a>, Nazarbayev University, Kazakhstan</p>
 
 <h2>Steering Committee</h2>
-<h2>Programme Committee Chairs</h2>
 <p><a href="https://homepages.cwi.nl/~frb/">Frank de Boer</a>, CWI, The Netherlands<br>
    <a href="https://www-users.cs.york.ac.uk/~raduc/">Radu Calinescu</a>, University of York, UK<br>
    <a href="https://nu.edu.kz/faculty/antonio-cerone">Antonio Cerone</a>, Nazarbayev University, Kazakhstan<br>
