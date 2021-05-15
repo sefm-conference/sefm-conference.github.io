@@ -34,8 +34,8 @@ Camera-ready submission: Friday 08 October 2021</p>
 
 <h2 class="importantH">Sponsors</h2>
 
-<p>Assuring Autonomy International Programme<br>
-Carnegie Mellon University<br>
-Nazarbayev University<br>
-UKRI Trustworthy Autonomous Systems Node in Resilience<br>
-University of York</p>
+<p><a href="https://www.york.ac.uk/assuring-autonomy/">Assuring Autonomy International Programme</a><br>
+   <a href="https://www.cmu.edu/">Carnegie Mellon University</a><br>
+   <a href="https://nu.edu.kz/">Nazarbayev University</a><br>
+   <a href="https://resilience.tas.ac.uk/home">UKRI Trustworthy Autonomous Systems Node in Resilience</a><br>
+   <a href="https://www.york.ac.uk/">University of York</a></p>
