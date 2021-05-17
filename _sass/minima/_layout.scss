@@ -125,6 +125,15 @@
   padding: $spacing-unit 0;
 }
 
+.backtotop {
+  float: right;
+}
+
+.fa-arrow-up {
+  color: #000000;
+  padding-right: 3px;
+}
+
 .footer-heading {
   @include relative-font-size(1.125);
   margin-bottom: $spacing-unit / 2;
