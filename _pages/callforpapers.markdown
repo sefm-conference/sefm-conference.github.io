@@ -71,26 +71,26 @@ software engineering and formal methods.</p>
 <p>We solicit two categories of papers:</p>
 
 <ul>
-  <li><p><b>Regular papers</b> describing original research results, case studies, or surveys.<br>
-   Regular papers should not exceed <b>15 pages</b>, excluding bibliography. Two more <br>pages containing only
+  <li><p><b>Regular papers</b> describing original research results, case studies, or surveys.
+   Regular papers should not exceed <b>15 pages</b>, excluding bibliography. <br>Two more pages containing only
    references are permitted.</p></li>
-   <li><p><b>Tool papers</b> that describe an operational tool and its contributions. Tool papers <br>should not exceed
-   <b>6 pages</b> (including bibliography) and should include the URL <br>of the tool.
+   <li><p><b>Tool papers</b> that describe an operational tool and its contributions. Tool papers should not exceed
+   <b>6 pages</b> (including bibliography) and should include the URL of the tool.
 </p></li>
 </ul>
 
-<p>All submissions must be original, unpublished, and not submitted concurrently for<br> publication elsewhere. </p>
+<p>All submissions must be original, unpublished, and not submitted concurrently for publication elsewhere. </p>
 
 <h3>Submission</h3>
 
 <p>Paper submission is done via EasyChair:
-<br><a href="https://easychair.org/conferences/?conf=sefm2021">https://easychair.org/conferences/?conf=sefm2021</a>
+<a href="https://easychair.org/conferences/?conf=sefm2021">https://easychair.org/conferences/?conf=sefm2021</a>
 <br><br>Papers must be formatted according to the <a href="https://www.springer.com/gb/computer-science/lncs/conference-proceedings-guidelines">guidelines for Springer LNCS papers.</a>
 </p>
 
 <h2 class="importantH">Publication</h2>
 
-<p>All accepted papers will appear in the proceedings of the conference, which will be <br>published
+<p>All accepted papers will appear in the proceedings of the conference, which will be published
 as a volume in Springer's Lecture Notes in Computer Science series.</p>
 
 <h2 class="importantH">Important dates</h2>

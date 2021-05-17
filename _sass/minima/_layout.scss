@@ -23,7 +23,7 @@
   @include relative-font-size(1.625);
   font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
-  letter-spacing: -1px;
+  //letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
 
@@ -36,13 +36,10 @@
 /**
 * Site navigation bar
 */
-.navbar-collapse {
-  float: left;
-}
-
 .navbar-collapse ul{
   list-style: none;
   margin: 0;
+  min-width: 600px;
 }
 
 .navbar-collapse > ul > li {
@@ -53,7 +50,7 @@
 .navbar-collapse ul li a {
   text-decoration: none;
   color: $grey-color-dark;
-  padding: 16px 30px;
+  padding: 16px 60px;
   margin-left: 0;
   display: block;
 }
