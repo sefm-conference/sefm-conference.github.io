@@ -20,7 +20,8 @@ permalink: /committees/
 
 <h2>Organising Committee</h2>
 <p><a href="https://www-users.cs.york.ac.uk/~raduc/">Radu Calinescu</a>, University of York, UK<br>
-   <a href="https://nu.edu.kz/faculty/antonio-cerone">Antonio Cerone</a>, Nazarbayev University, Kazakhstan</p>
+   <a href="https://nu.edu.kz/faculty/antonio-cerone">Antonio Cerone</a>, Nazarbayev University, Kazakhstan<br>
+   <a href="https://www.cs.york.ac.uk/people/?group=aaip&username=jennd">Jennifer Dick</a>, University of York, UK</p>
 
 <h2>Steering Committee</h2>
 <p><a href="https://homepages.cwi.nl/~frb/">Frank de Boer</a>, CWI, The Netherlands<br>
