@@ -27,9 +27,9 @@ at the virtual conference.</p>
 
 <h2 class="importantH">Important dates</h2>
 
-<p>Abstract submission: Friday 16 July 2021 (AOE)<br>
+<p>Abstract submission: Monday 19 July 2021 (AOE)<br>
 Paper submission: Friday 23 July 2021 (AOE)<br>
-Author notification: Friday 01 October 2021<br>
+Author notification: Friday 24 September 2021<br>
 Camera-ready submission: Friday 08 October 2021</p>
 
 <h2 class="importantH">Sponsors</h2>

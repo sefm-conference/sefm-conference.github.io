@@ -95,9 +95,9 @@ as a volume in Springer's Lecture Notes in Computer Science series.</p>
 
 <h2 class="importantH">Important dates</h2>
 <ul>
-  <li>Abstract submission: Friday 16 July 2021 (AOE)</li>
+  <li>Abstract submission: Monday 19 July 2021 (AOE)</li>
   <li>Paper submission: Friday 23 July 2021 (AOE)</li>
-  <li>Author notification: Friday 01 October 2021</li>
+  <li>Author notification: Friday 24 September 2021</li>
   <li>Camera-ready submission: Friday 08 October 2021</li>
   <li>Conference: 6-10 December 2021</li>
 </ul>

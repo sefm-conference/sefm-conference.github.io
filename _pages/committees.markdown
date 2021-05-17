@@ -13,7 +13,7 @@ permalink: /committees/
 <p>To be announced</p>
 
 <h2>Workshop Chair</h2>
-<p>To be announced</p>
+<p><a href="https://nu.edu.kz/faculty/antonio-cerone">Antonio Cerone</a>, Nazarbayev University, Kazakhstan</p>
 
 <h2>Publicity Chair</h2>
 <p>To be announced</p>
