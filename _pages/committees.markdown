@@ -15,8 +15,9 @@ permalink: /committees/
 <h2>Workshop Chair</h2>
 <p><a href="https://nu.edu.kz/faculty/antonio-cerone">Antonio Cerone</a>, Nazarbayev University, Kazakhstan</p>
 
-<h2>Publicity Chair</h2>
-<p>To be announced</p>
+<h2>Publicity Chairs</h2>
+<p><a href="https://www.gleirscher.at/mg/">Mario Gleirscher</a>, University of Bremen, Germany<br>
+   <a href="https://lauranenzi.github.io/">Laura Nenzi</a>, University of Trieste, Italy</p>
 
 <h2>Organising Committee</h2>
 <p><a href="https://www-users.cs.york.ac.uk/~raduc/">Radu Calinescu</a>, University of York, UK<br>
