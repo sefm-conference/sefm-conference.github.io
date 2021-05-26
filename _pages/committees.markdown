@@ -35,7 +35,7 @@ permalink: /committees/
    <a href="http://www.cs.um.edu.mt/gordon.pace/">Gordon Pace</a>, University of Malta, Malta<br>   
    <a href="http://www.lix.polytechnique.fr/~catuscia/">Catuscia Palamidessi</a>, INRIA, France<br>
    <a href="https://www-users.cs.york.ac.uk/cap508/">Colin Paterson</a>, University of York, UK<br>
-   <a href="">E.	Piqueras</a>, University of Castilla-La Mancha, Spain<br>
+   <a href="https://www.researchgate.net/profile/Emilia-Cambronero">Emilia Piqueras</a>, University of Castilla-La Mancha, Spain<br>
    <a href="https://ict.hvl.no/people/violetpun/">Violet Ka I Pun</a>, Western Norway University of Applied Sciences, Norway<br>
    <a href="http://convecs.inria.fr/people/Gwen.Salaun/">Gwen Salaün</a>, University of Grenoble Alpes, France<br>
    <a href="https://www.cin.ufpe.br/~acas/">Augusto Sampaio</a>, Federal University of Pernambuco, Brazil<br>
