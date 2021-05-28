@@ -101,6 +101,3 @@ as a volume in Springer's Lecture Notes in Computer Science series.</p>
   <li>Camera-ready submission: Friday 08 October 2021</li>
   <li>Conference: 6-10 December 2021</li>
 </ul>
-
-<h2 class="importantH">Contact</h2>
-<p><a href="sefm2021@easychair.org">sefm2021@easychair.org</a></p>
