@@ -11,7 +11,7 @@ permalink: /workshops/
 </div>
  <p>The 2021 SEFM Workshops and Symposia provide a highly interactive and collaborative environment
  for researchers and practitioners from industry and academia to discuss emerging areas of software
- engineering and formal methods.</p>
+ engineering <br>and formal methods.</p>
 
  <p>The workshops below will be co-located with SEFM 2021:</p>
 
