@@ -4,6 +4,12 @@ title: Call for Papers
 subtitle:
 permalink: /callforpapers/
 ---
+<div id="secondary" class="widget-area sidey" role="complementary">
+
+      <ul class="xoxo">
+
+          <li id="custom_html-3" class="widget_text widget-container widget_custom_html"><div class="textwidget custom-html-widget"><a class="twitter-timeline" data-width="300" data-height="600" data-theme="light" href="https://twitter.com/sefm_conf?ref_src=twsrc%5Etfw">Tweets by sefm2021</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </div></li>	</ul>
+</div>
 <h2>Overview and Scope</h2>
 <p>The 19th edition of the International Conference on Software Engineering and
 Formal Methods will be held <b>virtually</b> between <b>6 and 10 December 2021</b>. The conference
