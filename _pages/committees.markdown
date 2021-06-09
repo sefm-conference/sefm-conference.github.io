@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Committees
-permalink: /committees/
+permalink: /comittees
 ---
 <div id="secondary" class="widget-area sidey" role="complementary">
 

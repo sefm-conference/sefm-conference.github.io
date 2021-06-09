@@ -1,6 +1,9 @@
 <header class="site-header" role="banner">
 
   <div class="wrapper">
+    <div class="headerImage">
+    <img src="./assets/minster-plain.jpeg" />
+    </div>
       {%- assign default_paths = site.pages | map: "path" -%}
       {%- assign page_paths = site.header_pages | default: default_paths -%}
       {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
