@@ -3,7 +3,12 @@ layout: page
 title: Committees
 permalink: /comittees
 ---
+<div id="secondary" class="widget-area sidey" role="complementary">
 
+      <ul class="xoxo">
+
+          <li id="custom_html-3" class="widget_text widget-container widget_custom_html"><div class="textwidget custom-html-widget"><a class="twitter-timeline" data-width="300" data-height="600" data-theme="light" href="https://twitter.com/sefm_conf?ref_src=twsrc%5Etfw">Tweets by sefm2021</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </div></li>	</ul>
+</div>
 <h2>Programme Committee Chairs</h2>
 <p><a href="https://www-users.cs.york.ac.uk/~raduc/">Radu Calinescu</a>, University of York, UK<br>
    <a href="https://www.ece.cmu.edu/directory/bios/pasareanu-corina.html">Corina Pasareanu</a>, CMU / NASA Ames Research Center, US
@@ -73,10 +78,3 @@ permalink: /comittees
 
 <h2>Webmaster</h2>
 <a href="https://www.cs.york.ac.uk/people/?group=enterprise&username=ioanniss">Ioannis Stefanakos</a>, University of York, UK<br>
-
-<div id="secondary" class="widget-area sidey" role="complementary">
-
-      <ul class="xoxo">
-
-          <li id="custom_html-3" class="widget_text widget-container widget_custom_html"><div class="textwidget custom-html-widget"><a class="twitter-timeline" data-width="300" data-height="600" data-theme="light" href="https://twitter.com/sefm_conf?ref_src=twsrc%5Etfw">Tweets by sefm2021</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </div></li>	</ul>
-</div>

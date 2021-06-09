@@ -5,7 +5,12 @@
 layout: home
 permalink: /
 ---
+   <div id="secondary" class="widget-area sidey" role="complementary">
 
+         <ul class="xoxo">
+
+             <li id="custom_html-3" class="widget_text widget-container widget_custom_html"><div class="textwidget custom-html-widget"><a class="twitter-timeline" data-width="300" data-height="600" data-theme="light" href="https://twitter.com/sefm_conf?ref_src=twsrc%5Etfw">Tweets by sefm2021</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </div></li>	</ul>
+   </div>
 <h2 class="secondH">Welcome to SEFM 2021</h2>
 <p>The 19th edition of the International Conference on Software Engineering and
  Formal Methods will <br>be held between 6 and 10 December 2021.</p>
@@ -40,10 +45,3 @@ Camera-ready submission: Friday 08 October 2021</p>
    <a href="https://nu.edu.kz/">Nazarbayev University</a><br>
    <a href="https://resilience.tas.ac.uk/home">UKRI Trustworthy Autonomous Systems Node in Resilience</a><br>
    <a href="https://www.york.ac.uk/">University of York</a></p>
-
-   <div id="secondary" class="widget-area sidey" role="complementary">
-
-         <ul class="xoxo">
-
-             <li id="custom_html-3" class="widget_text widget-container widget_custom_html"><div class="textwidget custom-html-widget"><a class="twitter-timeline" data-width="300" data-height="600" data-theme="light" href="https://twitter.com/sefm_conf?ref_src=twsrc%5Etfw">Tweets by sefm2021</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </div></li>	</ul>
-   </div>
