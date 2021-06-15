@@ -22,7 +22,7 @@ permalink: /comittees
    <a href="https://homepages.cwi.nl/~frb/">Frank de Boer</a>, Centrum Wiskunde & Informatica, Netherlands<br>
    <a href="https://www-users.cs.york.ac.uk/~alcc/">Ana Cavalcanti</a>, University of York, UK<br>
    <a href="https://es.fbk.eu/?author_name=alessandro-cimatti">Alessandro Cimatti</a>, Fondazione Bruno Kessler, Italy<br>
-   <a href="https://profs.info.uaic.ro/~gabriel/">Gabriel Ciobanu</a>, Romanian Academy, Institute of Computer Science, Iasi<br>
+   <a href="https://profs.info.uaic.ro/~gabriel/">Gabriel Ciobanu</a>, Romanian Academy, Institute of Computer Science, Romania<br>
    <a href="https://www.ecs.soton.ac.uk/people/corina">Corina Cirstea</a>, University of Southampton, UK<br>
    <a href="https://www.research.manchester.ac.uk/portal/louise.dennis.html">Louise Dennis</a>, University of Manchester, UK<br>
    <a href="https://www.antonio.filieri.name/">Antonio Filieri</a>, Imperial College London, UK<br>
