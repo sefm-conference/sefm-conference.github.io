@@ -13,4 +13,4 @@ permalink: /keynotes
 
 <h2><a href="http://www.cs.toronto.edu/~chechik/">Marsha Chechik</a>, University of Toronto, Canada</h2>
 
-<h2><a href="https://lafhis.dc.uba.ar/~suchitel">Sebastian Uchitelk</a>, University of Buenos Aires, Argentina; and Imperial College London, UK</h2>
+<h2><a href="https://lafhis.dc.uba.ar/~suchitel">Sebastian Uchitel</a>, University of Buenos Aires, Argentina; and Imperial College London, UK</h2>
