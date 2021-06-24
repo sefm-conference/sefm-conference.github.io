@@ -22,7 +22,7 @@ permalink: /workshops
 
  <h2>ASYDE 2021: Monday 6 December 2021</h2>
 
-3rd International Workshop on Automated and verifiable Software sYstem DEvelopment
+<a href="https://asyde-series.github.io/asyde2021/3rd">International Workshop on Automated and verifiable Software sYstem DEvelopment</a>
 
  <h2>OpenCERT 2021: Tuesday 7 December 2021</h2>
 
