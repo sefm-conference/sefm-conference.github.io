@@ -35,7 +35,8 @@ permalink: /comittees
    <a href="https://lero.ie/people/tiziana-margaria">Tiziana Margaria</a>, Lero, Ireland<br>
    <a href="https://claudiomenghi.github.io/">Claudio Menghi</a>, University of Luxembourg, Luxembourg<br>
    <a href="https://lauranenzi.github.io/">Laura Nenzi</a>, University of Trieste, Italy<br>
-    <a href="https://www.imtlucca.it/it/rocco.denicola">Rocco De Nicola</a>, IMT - School for Advanced Studies Lucca, Italy<br>
+   <a href="https://www.imtlucca.it/it/rocco.denicola">Rocco De Nicola</a>, IMT - School for Advanced Studies Lucca, Italy<br>
+   <a href="https://nu.edu.kz/faculty/hans-de-nivelle">Hans de Nivelle</a>, Nazarbayev University, Kazakhstan<br>
    <a href="https://olveczky.se/">Peter Ölveczky</a>, University of Oslo, Norway<br>
    <a href="http://www.cs.um.edu.mt/gordon.pace/">Gordon Pace</a>, University of Malta, Malta<br>   
    <a href="http://www.lix.polytechnique.fr/~catuscia/">Catuscia Palamidessi</a>, INRIA, France<br>
