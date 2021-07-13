@@ -2,7 +2,7 @@
 layout: page
 title: Call for Papers
 subtitle:
-permalink: /callforpapers
+permalink: /callforpapers/
 ---
 <div id="secondary" class="widget-area sidey" role="complementary">
 
