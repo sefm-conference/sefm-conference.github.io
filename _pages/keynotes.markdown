@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Keynote Speakers
-permalink: /keynotes
+permalink: /keynotes/
 ---
 <div id="secondary" class="widget-area sidey" role="complementary">
 

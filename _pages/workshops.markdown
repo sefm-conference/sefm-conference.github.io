@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Workshops and Symposia
-permalink: /workshops
+permalink: /workshops/
 ---
 
 <div id="secondary" class="widget-area sidey" role="complementary">
