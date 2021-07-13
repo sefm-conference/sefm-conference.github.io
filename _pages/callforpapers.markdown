@@ -3,7 +3,7 @@ layout: page
 title: Call for Papers
 subtitle:
 permalink: /callforpapers
-redirect_from: https://sefm-conference.github.io/callforpapers/
+redirect_from: /sefm-conference.github.io/callforpapers/
 ---
 <div id="secondary" class="widget-area sidey" role="complementary">
 
