@@ -11,6 +11,11 @@ permalink: /
 
              <li id="custom_html-3" class="widget_text widget-container widget_custom_html"><div class="textwidget custom-html-widget"><a class="twitter-timeline" data-width="300" data-height="600" data-theme="light" href="https://twitter.com/sefm_conf?ref_src=twsrc%5Etfw">Tweets by sefm2021</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </div></li>	</ul>
    </div>
+<h2 class="secondH">* NEWS *</h2>
+<ul>
+  <li>The main conference registration is <a href="https://sefm-conference.github.io/registration/">now open</a>!</li>
+  <li>The SEFM main conference proceedings will be published in the <a href="https://www.springer.com/gp/computer-science/lncs/societies-and-lncs/formal-methods-/10627874">Formal Methods subline of Springer's Lecture Notes in Computer Science</a>.</li>
+</ul>    
 <h2 class="secondH">Welcome to SEFM 2021</h2>
 <p>The 19th edition of the International Conference on Software Engineering and
  Formal Methods will <br>be held between 6 and 10 December 2021.</p>
