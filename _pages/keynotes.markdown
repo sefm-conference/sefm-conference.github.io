@@ -12,6 +12,8 @@ permalink: /keynotes/
 
 <h2><a href="https://www-users.cs.york.ac.uk/~alcc/">Ana Cavalcanti</a>, University of York, UK</h2>
 
+<p><img src="{{ '/assets/ana.jpg' | relative_url }}" class="imageSpeaker" align="left"/></p>
+
 <p><strong>Title:</strong> RoboWorld: where can my robot work?</p>
 
 <p><strong>Abstract:</strong> The behaviour of a robot affects and is affected by its environment.  So, many of the expected and desirable properties of a robotic system depend on properties of its environment. While a complete model of that environment is very difficult, if not impossible, to construct, we can realistically capture assumptions about the environment.  In this talk, we present RoboWorld, a controlled natural language with a process-algebraic semantics that can be used to define (a) the operational requirements of a robot, and (b) how the
