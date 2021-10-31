@@ -3,6 +3,7 @@ layout: page
 title: Call for Papers
 subtitle:
 permalink: /callforpapers/
+order: 5
 ---
 <div id="secondary" class="widget-area sidey" role="complementary">
 

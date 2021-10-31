@@ -2,6 +2,7 @@
 layout: page
 title: Keynote Speakers
 permalink: /keynotes/
+order: 3
 ---
 <div id="secondary" class="widget-area sidey" role="complementary">
 

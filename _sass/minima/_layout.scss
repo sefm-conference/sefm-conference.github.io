@@ -27,7 +27,7 @@
   letter-spacing: 0px;
   margin-bottom: 0;
   float: left;
-  padding-right:70px;
+  padding-right:32px;
 
   &,
   &:visited {
@@ -56,7 +56,7 @@
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
-      margin-right: 49px;
+      margin-right: 32px;
     }
   }
 
@@ -137,6 +137,9 @@
   padding-right: 1%;
 }
 
+.prog {
+  margin-bottom: 0px;
+}
 /**
  * Site footer
  */

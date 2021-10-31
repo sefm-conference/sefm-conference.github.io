@@ -3,6 +3,7 @@ layout: page
 title: Accepted papers
 subtitle:
 permalink: /acceptedpapers/
+order: 6
 ---
 <div id="secondary" class="widget-area sidey" role="complementary">
 

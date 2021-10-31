@@ -2,6 +2,7 @@
 layout: page
 title: Registration
 permalink: /registration/
+order: 1
 ---
 
 <div id="secondary" class="widget-area sidey" role="complementary">

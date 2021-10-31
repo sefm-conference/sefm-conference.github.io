@@ -2,6 +2,7 @@
 layout: page
 title: Workshops and Symposia
 permalink: /workshops/
+order: 7
 ---
 
 <div id="secondary" class="widget-area sidey" role="complementary">

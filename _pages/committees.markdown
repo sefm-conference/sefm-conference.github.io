@@ -2,6 +2,7 @@
 layout: page
 title: Committees
 permalink: /comittees/
+order: 4
 ---
 <div id="secondary" class="widget-area sidey" role="complementary">
 
