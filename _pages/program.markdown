@@ -18,7 +18,7 @@ order: 2
 
 <h3 class="prog"><b>12:00-13:15 Opening and Keynote 1</b></h3>
 <p>12:00-12:15  SEFM 2021 Opening <br>
-12:15-12:30  <em>RoboWorld: where can my robot work?</em> <br>
+12:15-13:15  <em>RoboWorld: where can my robot work?</em> <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;Ana Cavalcanti, University of York, UK</p>
 
 <h3><b>13:15-13:40 Break</b></h3>
