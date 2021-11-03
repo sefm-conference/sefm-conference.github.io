@@ -23,7 +23,8 @@ order: 2
 
 <h3><b>13:15-13:40 Break</b></h3>
 
-<h3 class="prog"><b>13:40-15:10 Session 1: Run-time Analysis and Testing</b></h3>
+<h3 class="prog"><b>13:40-15:10 Session 1: Run-time Analysis and Testing</b><br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;<b>Chair: Colin Paterson</b></h3>
 <p>13:40-14:00 <em>Runtime Enforcement with Reordering, Healing, and Suppression</em> <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp;Yliès Falcone and Gwen Salaün <br>
 14:00-14:20 <em>Monitoring First-Order Interval Logic</em> <br>
@@ -39,7 +40,8 @@ order: 2
 
 <h3><b>15:10-15:30 Break</b></h3>
 
-<h3 class="prog"><b>15:30-16:50 Session 2: Security & Privacy</b></h3>
+<h3 class="prog"><b>15:30-16:50 Session 2: Security & Privacy</b><br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;<b>Chair: Paolo Masci</b></h3>
 <p>15:30-15:50 <em>Refining Privacy-Aware Data Flow Diagrams</em> <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp;Hanaa Alshareef, Sandro Stucki and Gerardo Schneider <br>
 15:50-16:10 <em>Hybrid Information Flow Control for Low-level Code</em> <br>
@@ -75,7 +77,8 @@ order: 2
 
 <h3><b>15:05-15:25 Break</b></h3>
 
-<h3 class="prog"><b>15:25-17:00 Session 4: Verification & Synthesis</b></h3>
+<h3 class="prog"><b>15:25-17:00 Session 4: Verification & Synthesis</b><br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;<b>Chair: Marie-Christine Jakobs</b></h3>
 <p>15:25-15:45 <em>Verification of Programs with Exceptions through Operator-Precedence Automata</em> <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp;Francesco Pontiggia, Michele Chiari and Matteo Pradella <br>
 15:45-16:05 <em>Counterexample Classification</em> <br>
