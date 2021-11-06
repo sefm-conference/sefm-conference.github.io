@@ -17,4 +17,4 @@ order: 1
 
 <p>Authors must register by Friday 29 October - this is a condition for the inclusion of the accepted papers in the conference proceedings, which will be published in the <a href="https://www.springer.com/gp/computer-science/lncs/societies-and-lncs/formal-methods-/10627874">Formal Methods subline of Springer's Lecture Notes in Computer Science</a>.</p>
 
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeZiOegWz182Chjr8lxuNL_tG35uJufV3YmaxiCNwtNgwswqA/viewform?usp=sf_link">Use this link to register for the main conference</a>.</p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeZiOegWz182Chjr8lxuNL_tG35uJufV3YmaxiCNwtNgwswqA/viewform?usp=sf_link">Use this link to register for the main conference and the collocated events</a>.</p>
