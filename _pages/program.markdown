@@ -107,7 +107,8 @@ order: 2
 
 <h3><b>13:20-13:40 Break</b></h3>
 
-<h3 class="prog"><b>13:40-14:40 Session 6: Machine Learning and Cyber Physical Systems</b></h3>
+<h3 class="prog"><b>13:40-14:40 Session 6: Machine Learning and Cyber Physical Systems</b><br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;<b>Chair: Heike Wehrheim</b></h3>
 <p>13:40-14:00 <em>OSIP: Tightened Bound Propagation for the Verification of ReLU Neural Networks</em> <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp;Vahid Hashemi, Panagiotis Kouvaros and Alessio Lomuscio <br>
 14:00-14:20 <em>Active Model Learning of Stochastic Reactive Systems</em> <br>
