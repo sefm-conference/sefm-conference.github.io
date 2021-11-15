@@ -93,7 +93,8 @@ order: 2
 
 <h2><b>Day 3 Friday 10 December 2021</b></h2>
 
-<h3 class="prog"><b>12:00-13:20 Session 5: Emerging Domains</b></h3>
+<h3 class="prog"><b>12:00-13:20 Session 5: Emerging Domains</b><br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;<b>Chair: Hans de Nivelle</b></h3>
 <p>12:00-12:20 <em>Lightweight Nontermination Inference with CHCs</em> <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp;Bishoksan Kafle, Graeme Gange, Peter Schachte, Harald Sondergaard and Peter J. Stuckey <br>
 12:20-12:40 <em>A Denotational Semantics of Solidity in Isabelle/HOL</em> <br>
