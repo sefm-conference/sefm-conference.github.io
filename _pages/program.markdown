@@ -16,7 +16,8 @@ order: 2
 
 <h2><b>DAY 1 Wednesday 8 December 2021</b></h2>
 
-<h3 class="prog"><b>12:00-13:15 Opening and Keynote 1</b></h3>
+<h3 class="prog"><b>12:00-13:15 Opening and Keynote 1</b><br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;<b>Chair: Radu Calinescu and Corina Pasareanu</b></h3>
 <p>12:00-12:15  SEFM 2021 Opening <br>
 12:15-13:15  <em>RoboWorld: where can my robot work?</em> <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Ana Cavalcanti, University of York, UK</p>
@@ -54,7 +55,8 @@ order: 2
 
 <h2><b>Day 2 Thursday 9 December 2021</b></h2>
 
-<h3 class="prog"><b>12:00-13:00 Keynote 2</b></h3>
+<h3 class="prog"><b>12:00-13:00 Keynote 2</b><br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;<b>Chair: Radu Calinescu</b></h3>
 <p>12:00-13:00 <em>Controller synthesis for Adaptive Mobile Robots. Abstractions, all change!?</em> <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp;Sebastian Uchitel, University of Buenos Aires, Argentina; <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp;and Imperial College London, UK
@@ -62,7 +64,8 @@ order: 2
 
 <h3><b>13:00-13:30 Break</b></h3>
 
-<h3 class="prog"><b>13:30-15:05 Session 3: Parallel Composition/CSP and Probabilistic Reasoning</b></h3>
+<h3 class="prog"><b>13:30-15:05 Session 3: Parallel Composition/CSP and Probabilistic Reasoning</b><br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;<b>Chair: Mario Gleirscher</b></h3>
 <p> 13:30-13:50 <em>Parallelized sequential composition and hardware weak memory models</em> <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp;Robert Colvin <br>
 13:50-14:10 <em>Checking Opacity and Durable Opacity with FDR</em> <br>
@@ -119,7 +122,8 @@ order: 2
 
 <h3><b>14:40-15:00 Break</b></h3>
 
-<h3 class="prog"><b>15:00-16:00 Keynote 3</b></h3>
+<h3 class="prog"><b>15:00-16:00 Keynote 3</b><br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;<b>Chair: Corina Pasareanu</b></h3>
 <p>15:00-16:00 <em>On Safety, Assurance and Reliability: A Software Engineering Perspective</em> <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp;Marsha Chechik, University of Toronto, Canada
 </p>
