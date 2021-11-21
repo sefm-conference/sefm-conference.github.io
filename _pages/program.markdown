@@ -17,7 +17,7 @@ order: 2
 <h2><b>DAY 1 Wednesday 8 December 2021</b></h2>
 
 <h3 class="prog"><b>12:00-13:15 Opening and Keynote 1</b><br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;<b>Chair: Radu Calinescu and Corina Pasareanu</b></h3>
+&emsp;&emsp;&emsp;&emsp;&emsp;<b>Chair: Radu Calinescu and Corina Pasareanu</b></h3>
 <p>12:00-12:15  SEFM 2021 Opening <br>
 12:15-13:15  <em>RoboWorld: where can my robot work?</em> <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Ana Cavalcanti, University of York, UK</p>
