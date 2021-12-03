@@ -39,55 +39,6 @@ order: 7
 
  <h1>Program</h1>
 
-<h2>MONDAY 6 DECEMBER 2021 - Combined programme</h2>
-
-<h3>GMT Time</h3>
-
-<p>08:40-08:50 (CET: 09:40-09:50; East Kazakhstan: 14:40-14:50)<br/>
-* DataMod - Opening</p>
-
-<p>08:50-09:50 (CET: 09:50-10:50; East Kazakhstan: 14:50-15:50)<br/>
-* DataMod - INVITED TALK: Andrea Vandin</p>
-
-<p>09:50-10:30 (CET: 10:50-11:30; East Kazakhstan: 15:50-16:30)<br/>
-* DataMod - Break</p>
-
-<p>09:50-10:00 (CET: 10:50-11:00; East Kazakhstan: 15:50-16:00)<br/>
-* CIFMA- Opening</p>
-
-<p>10:00-11:30 (CET: 11:00-12:30; East Kazakhstan: 16:00-17:30)<br/>
-* CIFMA - Session 1 (accepted papers 1-3)</p>
-
-<p>10:30-12:30 (CET: 11:30-13:30; East Kazakhstan: 16:30-18:30)<br/>
-* DataMod - accepted papers 1-4</p>
-
-<p>11:30-13:00 (CET: 12:30-14:00; East Kazakhstan: 17:30-19:00)<br/>
-* CIFMA - Break</p>
-
-<p>12:00-13:00 (CET: 13:00-14:00; East Kazakhstan: 18:00-19:00)<br/>
-* ASYDE - INVITED TALK: to be confirmed</p>
-
-<p>13:00-14:00 (CET: 14:00-15:00; East Kazakhstan: 19:00-20:00)<br/>
-* ASYDE - accepted papers 1-2</p>
-
-<p>13:00-15:00 (CET: 14:00-16:00; East Kazakhstan: 19:00-21:00)<br/>
-* CIFMA - Section 2 (accepted papers 1-3)</p>
-
-<p>15:00-15:30 (CET: 16:00-16:30; East Kazakhstan: 21:00-21:30)<br/>
-* CIFMA - Break</p>
-
-<p>15:30-17:30 (CET: 16:30-18:30; East Kazakhstan: 21:30-23:30)<br/>
-* CIFMA - Section 3 (accepted papers 7-10)</p>
-
-<p>17:30-18:00 (CET: 18:30-19:00; East Kazakhstan: 23:30-24:00)<br/>
-* CIFMA - Break</p>
-
-<p>18:00-19:00 (CET: 19:00-20:00; East Kazakhstan: 00:00-01:00 + 1 day)<br/>
-* CIFMA - INVITED TALK: Martin Davis</p>
-
-<p>19:00-19:05 (CET: 20:00-20:05; East Kazakhstan: 00:10-01:05 + 1 day)<br/>
-* CIFMA - Closing</p>
-
 <h2>MONDAY 6 DECEMBER 2021 - DataMod programme </h2>
 
 <h3>GMT Time</h3>
@@ -147,64 +98,6 @@ order: 7
 
 13:00-14:00 (CET: 14:00-15:00; East Kazakhstan: 19:00-20:00)
 * ASYDE - accepted papers 1-2
-
-<h2>TUESDAY 7 DECEMBER 2021 - Combined programme</h2>
-
-<h3>GMT Time</h3>
-
-08:40-08:50 (CET: 09:40-09:50; East Kazakhstan: 14:40-14:50)
-* DataMod - Opening
-
-08:50-09:50  (CET: 09:50-10:50; East Kazakhstan: 14:50-15:50)
-* DataMod - INVITED TALK: Antonio Cerone
-* CoSim-CPS - Attending DataMod invited talk 
-* OpenCERT - Attending DataMod invited talk
-
-09:55-10:00 (CET: 10:55-11:00; East Kazakhstan: 15:55-16:00)
-* CoSim-CPS - Opening
-
-10:00-11:00  (CET: 11:00-12:00; East Kazakhstan: 16:00-17:00)
-* CoSim-CPS - Session 1: Convergence and Stability of Co-simulations (2 papers)
-* DataMod - Presentations 1-3 (reports)
-
-10:45-11:00 (CET: 11:45-12:00; East Kazakhstan: 16:45-17:00)
-* OpenCERT - Opening 
-
-11:00-12:00 (CET: 12:00-13:00; East Kazakhstan: 17:00-18:00)
-* DataMod - Attending OpenCERT invited talk 
-* CoSim-CPS - Attending OpenCERT invited talk 
-* OpenCERT - INVITED TALK: Ioannis Stamelos
-
-12:00-13:00 (CET: 13:00-14:00; East Kazakhstan: 18:00-19:00)
-* DataMod - Attending CoSim-CPS invited talk
-* CoSim-CPS - INVITED TALK: Paolo Bellavista
-* OpenCERT - Attending CoSim-CPS invited talk
-
-13:00-14:20 (CET: 14:00-15:20; East Kazakhstan: 19:00-20:20)
-* DataMod - Presentations 4-7 (reports)
-
-13:00-14:00 (CET: 14:00-15:00; East Kazakhstan: 19:00-20:00)
-* CoSim-CPS - Session 2: Maritime Applications
-
-13:30-15:30 (CET: 14:30-16:30; East Kazakhstan: 19:30-21:30)
-* OpenCERT - Contributed papers (paper 1-4)
-
-14:20-15:00 (CET: 15:20-16:00; East Kazakhstan: 20:20-21:00)
-* DataMod - Discussion and Closing
-
-14:20-15:40 (CET: 15:30-16:00; East Kazakhstan: 20:20-21:40)
-* CoSim-CPS - Session 3: Automotive and Aircraft Applications & Frameworks
-
-15:40-15:45 (CET: 16:40-16:45; East Kazakhstan: 21:40-21:45)
-* CoSim-CPS - Discussion and Closing
-
-16:00 -17:00 (CET: 17:00-18:00; East Kazakhstan: 22:00-23:00)
-* DataMod - Attending OpenCERT invited talk 
-* CoSim-CPS - Attending OpenCERT invited talk 
-* OpenCERT: INVITED TALK: Tony Wasserman invited talk
-
-17:00-17:30 (CET: 18:00-18:30; East Kazakhstan: 23:00-23:30)
-* OpenCERT: Discussion and Closing
 
 <h2>TUESDAY 7 DECEMBER 2021 - DataMod  programme</h2>
 
