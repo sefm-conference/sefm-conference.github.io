@@ -39,7 +39,7 @@ order: 7
 
  <h1>Program</h1>
 
-<h2>MONDAY 6 DECEMBER 2021 - DataMod programme </h2>
+<h2>MONDAY 6 DECEMBER 2021 - DataMod programme <br/> (Zoom link: https://nu-edu-kz.zoom.us/j/93264784092)</h2>
 
 <h3>GMT Time</h3>
 
@@ -55,7 +55,7 @@ order: 7
 10:30-12:30 (CET: 11:30-13:30; East Kazakhstan: 16:30-18:30)
 * DataMod - accepted papers 1-4
  
-<h2>MONDAY 6 DECEMBER 2021 - CIFMA programme</h2>
+<h2>MONDAY 6 DECEMBER 2021 - CIFMA programme <br/> (Zoom link: https://nu-edu-kz.zoom.us/j/92622447716)</h2>
 
 <h3>GMT Time</h3>
 
@@ -89,7 +89,7 @@ order: 7
 19:00-19:05 (CET: 20:00-20:05; East Kazakhstan: 00:10-01:05 + 1 day)
 * CIFMA - Closing
  
-<h2>MONDAY 6 DECEMBER 2021 - ASYDE programme</h2>
+<h2>MONDAY 6 DECEMBER 2021 - ASYDE programme <br/> (Zoom link: https://nu-edu-kz.zoom.us/j/95918344553)</h2>
 
 <h3>GMT Time</h3>
 
@@ -99,7 +99,7 @@ order: 7
 13:00-14:00 (CET: 14:00-15:00; East Kazakhstan: 19:00-20:00)
 * ASYDE - accepted papers 1-2
 
-<h2>TUESDAY 7 DECEMBER 2021 - DataMod  programme</h2>
+<h2>TUESDAY 7 DECEMBER 2021 - DataMod  programme  <br/> (Zoom link: https://nu-edu-kz.zoom.us/j/93264784092)</h2>
 
 <h3>GMT Time</h3>
 
@@ -124,7 +124,7 @@ order: 7
 14:20-15:00 (CET: 15:20-16:00; East Kazakhstan: 20:20-21:00)
 * DataMod - Discussion and Closing
 
-<h2>TUESDAY 7 DECEMBER 2021 - CoSim-CPS programme</h2>
+<h2>TUESDAY 7 DECEMBER 2021 - CoSim-CPS programme <br/> (Zoom link: https://nu-edu-kz.zoom.us/j/96630723580)</h2>
 
 <h3>GMT Time</h3>
 
@@ -152,7 +152,7 @@ order: 7
 15:40-15:45 (CET: 16:40-16:45; East Kazakhstan: 21:40-21:45)
 * CoSim-CPS - Discussion and Closing
 
-<h2>TUESDAY 7 DECEMBER 2021 - OpenCERT programme</h2>
+<h2>TUESDAY 7 DECEMBER 2021 - OpenCERT programme <br/> (Zoom link: https://nu-edu-kz.zoom.us/j/92707374699)</h2>
 
 <h3>GMT Time</h3>
 
