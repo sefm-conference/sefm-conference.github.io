@@ -39,7 +39,8 @@ order: 7
 
  <h1>Program</h1>
 
-<h2>MONDAY 6 DECEMBER 2021 - DataMod programme <br/> (Zoom link: https://nu-edu-kz.zoom.us/j/93264784092)</h2>
+<h2>MONDAY 6 DECEMBER 2021 - DataMod programme <br/>
+      (Zoom link: <a href="https://nu-edu-kz.zoom.us/j/93264784092">https://nu-edu-kz.zoom.us/j/93264784092</a>)</h2>
 
 <h3>GMT Time</h3>
 
@@ -55,7 +56,8 @@ order: 7
 10:30-12:30 (CET: 11:30-13:30; East Kazakhstan: 16:30-18:30)
 * DataMod - accepted papers 1-4
  
-<h2>MONDAY 6 DECEMBER 2021 - CIFMA programme <br/> (Zoom link: https://nu-edu-kz.zoom.us/j/92622447716)</h2>
+<h2>MONDAY 6 DECEMBER 2021 - CIFMA programme <br/>
+      (Zoom link: <a href="https://nu-edu-kz.zoom.us/j/92622447716">https://nu-edu-kz.zoom.us/j/92622447716</a>)</h2>
 
 <h3>GMT Time</h3>
 
@@ -65,14 +67,17 @@ order: 7
 10:00-11:30 (CET: 11:00-12:30; East Kazakhstan: 16:00-17:30)
 * CIFMA - Session 1 (accepted papers 1-3)
 
-11:30-13:00 (CET: 12:30-14:00; East Kazakhstan: 17:30-19:00)
+11:30-12:30 (CET: 12:30-13:30; East Kazakhstan: 17:30-18:30)
 * CIFMA - Break
 
-12:00-13:00 (CET: 13:00-14:00; East Kazakhstan: 18:00-19:00)
-* CIFMA - Break, possibly Attending ASYDE invited talk
+12:30-13:00 (CET: 13:00-14:00; East Kazakhstan: 18:00-19:00)
+* CIFMA - Break, Attending ASYDE invited talk
 
-13:00-15:00 (CET: 14:00-16:00; East Kazakhstan: 19:00-21:00)
-* CIFMA - Section 2 (accepted papers 1-3)
+13:00-13:30 (CET: 14:00-14:30; East Kazakhstan: 19:00-19:30)
+* CIFMA - Break
+
+13:30-15:00 (CET: 14:30-16:00; East Kazakhstan: 19:30-21:00)
+* CIFMA - Section 2 (accepted papers 4-6)
 
 15:00-15:30 (CET: 16:00-16:30; East Kazakhstan: 21:00-21:30)
 * CIFMA - Break
@@ -89,17 +94,19 @@ order: 7
 19:00-19:05 (CET: 20:00-20:05; East Kazakhstan: 00:10-01:05 + 1 day)
 * CIFMA - Closing
  
-<h2>MONDAY 6 DECEMBER 2021 - ASYDE programme <br/> (Zoom link: https://nu-edu-kz.zoom.us/j/95918344553)</h2>
+<h2>MONDAY 6 DECEMBER 2021 - ASYDE programme <br/>
+      (Zoom link: <a href="https://nu-edu-kz.zoom.us/j/95918344553">https://nu-edu-kz.zoom.us/j/95918344553</a>)</h2>
 
 <h3>GMT Time</h3>
 
-12:00-13:00 (CET: 13:00-14:00; East Kazakhstan: 18:00-19:00)
-* ASYDE - INVITED TALK: to be confirmed
+12:30-13:00 (CET: 13:30-14:00; East Kazakhstan: 18:30-19:00)
+* ASYDE - INVITED TALK: Patrizio Pelliccione
 
 13:00-14:00 (CET: 14:00-15:00; East Kazakhstan: 19:00-20:00)
 * ASYDE - accepted papers 1-2
 
-<h2>TUESDAY 7 DECEMBER 2021 - DataMod  programme  <br/> (Zoom link: https://nu-edu-kz.zoom.us/j/93264784092)</h2>
+<h2>TUESDAY 7 DECEMBER 2021 - DataMod  programme  <br/>
+      (Zoom link: <a href="https://nu-edu-kz.zoom.us/j/93264784092">https://nu-edu-kz.zoom.us/j/93264784092</a></h2>
 
 <h3>GMT Time</h3>
 
@@ -124,7 +131,8 @@ order: 7
 14:20-15:00 (CET: 15:20-16:00; East Kazakhstan: 20:20-21:00)
 * DataMod - Discussion and Closing
 
-<h2>TUESDAY 7 DECEMBER 2021 - CoSim-CPS programme <br/> (Zoom link: https://nu-edu-kz.zoom.us/j/96630723580)</h2>
+<h2>TUESDAY 7 DECEMBER 2021 - CoSim-CPS programme <br/>
+      (Zoom link: <a href="https://nu-edu-kz.zoom.us/j/96630723580">https://nu-edu-kz.zoom.us/j/96630723580</a>)</h2>
 
 <h3>GMT Time</h3>
 
@@ -152,7 +160,8 @@ order: 7
 15:40-15:45 (CET: 16:40-16:45; East Kazakhstan: 21:40-21:45)
 * CoSim-CPS - Discussion and Closing
 
-<h2>TUESDAY 7 DECEMBER 2021 - OpenCERT programme <br/> (Zoom link: https://nu-edu-kz.zoom.us/j/92707374699)</h2>
+<h2>TUESDAY 7 DECEMBER 2021 - OpenCERT programme <br/>
+      (Zoom link: a href="https://nu-edu-kz.zoom.us/j/92707374699">https://nu-edu-kz.zoom.us/j/92707374699</a>)</h2>
 
 <h3>GMT Time</h3>
 
