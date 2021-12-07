@@ -106,7 +106,7 @@ order: 7
 * ASYDE - accepted papers 1-2
 
 <h2>TUESDAY 7 DECEMBER 2021 - DataMod  programme  <br/>
-      (Zoom link: <a href="https://nu-edu-kz.zoom.us/j/93264784092">https://nu-edu-kz.zoom.us/j/93264784092</a>)</h2>
+      (Zoom link: <a href="https://newcastleuniversity.zoom.us/j/83246651635?pwd=MGw3Tm1CU0VLa2FHcis1YWRNeHBnUT09">https://newcastleuniversity.zoom.us/j/83246651635?pwd=MGw3Tm1CU0VLa2FHcis1YWRNeHBnUT09</a>)</h2>
 
 <h3>GMT Time</h3>
 
