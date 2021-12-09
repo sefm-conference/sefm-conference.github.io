@@ -17,6 +17,8 @@ order: 3
 
 <p><strong>Title:</strong> RoboWorld: where can my robot work?</p>
 
+<p><a href="https://www.youtube.com/watch?v=AaGYZjSBO5c&ab_channel=FormalMethodsEurope">Watch the keynote session on YouTube</a></p>
+
 <p><strong>Abstract:</strong> The behaviour of a robot affects and is affected by its environment.  So, many of the expected and desirable properties of a robotic system depend on properties of its environment. While a complete model of that environment is very difficult, if not impossible, to construct, we can realistically capture assumptions about the environment.  In this talk, we present RoboWorld, a controlled natural language with a process-algebraic semantics that can be used to define (a) the operational requirements of a robot, and (b) how the
 robot interacts with its environment.  RoboWorld is part of the RoboStar framework of domain-specific languages that support proof, simulation, and testing of robotic systems. RoboWorld plays a central role in all these forms of verification.</p>
 
