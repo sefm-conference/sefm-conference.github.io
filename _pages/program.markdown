@@ -98,10 +98,10 @@ order: 2
 
 <h3 class="prog"><b>12:00-13:20 Session 5: Emerging Domains</b><br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;<b>Chair: Hans de Nivelle</b></h3>
-<p>12:00-12:20 <em>Lightweight Nontermination Inference with CHCs</em> <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp;Bishoksan Kafle, Graeme Gange, Peter Schachte, Harald Sondergaard and Peter J. Stuckey <br>
-12:20-12:40 <em>A Denotational Semantics of Solidity in Isabelle/HOL</em> <br>
+<p>12:00-12:20 <em>A Denotational Semantics of Solidity in Isabelle/HOL</em> <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp;Diego Marmsoler and Achim D. Brucker <br>
+12:20-12:40 <em>Lightweight Nontermination Inference with CHCs</em> <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp;Bishoksan Kafle, Graeme Gange, Peter Schachte, Harald Sondergaard and Peter J. Stuckey <br>
 12:40-13:00 <em>Configuration Space Exploration for Digital Printing Systems</em> <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp;Jasper Denkers, Marvin Brunner, Louis van Gool and Eelco Visser <br>
 13:00-13:20 <em>Bit-precise Verification of Discontinuity Errors Under Fixed-point Arithmetic</em> <br>
