@@ -35,7 +35,7 @@ testing for robotics.</p>
 
 <p><strong>Title:</strong> On Safety, Assurance and Reliability:  A Software Engineering Perspective</p>
 
-<p><a href="https://www.youtube.com/watch?v=uE8KNSU1MYE&ab_channel=FormalMethodsEurope">Watch the keynote session on YouTube</a></p>
+<p><a href="https://www.youtube.com/watch?v=zBg515ZvmYc&ab_channel=FormalMethodsEurope">Watch the keynote session on YouTube</a></p>
 
 <p>
 <strong>Abstract:</strong> From financial services platforms to social networks to vehicle control, software has come to mediate many activities of daily life. Governing bodies and standards organizations have responded to this trend by creating regulations and standards to address issues such as safety, security and privacy. In this environment, the compliance of software development to standards and regulations has emerged as a key requirement. Compliance claims and arguments are often captured in assurance cases, with linked evidence of compliance. Evidence can come from testcases, verification proofs, human judgement, or a combination of these. That is, we try to build (safety-critical) systems carefully according to well justified methods and articulate these justifications in an assurance case that is ultimately judged by a human.
@@ -54,7 +54,7 @@ I argue that safety assurance should be an integral part of building safe and re
 </p><p>
 <strong>Title:</strong> Controller synthesis for Adaptive Mobile Robots. Abstractions, all change!?</p>
 
-<p><a href="https://www.youtube.com/watch?v=zBg515ZvmYc&ab_channel=FormalMethodsEurope">Watch the keynote session on YouTube</a></p>
+<p><a href="https://www.youtube.com/watch?v=uE8KNSU1MYE&ab_channel=FormalMethodsEurope">Watch the keynote session on YouTube</a></p>
 
 <p>
 <strong>Abstract:</strong> Discrete event controller synthesis promises correct-by-construction strategies for controlling reactive systems to ensure user specified goals. Runtime synthesis takes this one step further, enabling correct runtime adaptation when a reactive system's goals, capabilities, or environment change. The need for synthesis in mobile robotic systems is particularly telling. Despite the wide availability of general purpose mobile robots (particularly Unmanned Aerial Vehicles - UAVs), the ability of end-users (individuals and organisations) to exploit them to their full potential is limited. Either complex and error prone programming is required or graphical mission planning interfaces are used to model simple, non-reactive missions.  The use of synthesis and runtime synthesis for mobile robots has many challenges ahead. In this talk I will discuss how we addressed some of them by revisiting both (1) the abstractions used to specify and synthesise discrete event controllers and (2) the architectural abstractions needed to successfully deploy synthesis technology on both fixed wing and multi-rotor systems.</p>
