@@ -31,9 +31,13 @@ testing for robotics.</p>
 
 <p>
 <img src="{{ '/assets/chechik.png' | relative_url }}" class="imageSpeaker" align="left"/>
-</p><p>
-<strong>Title:</strong> On Safety, Assurance and Reliability:  A Software Engineering Perspective
-</p><p>
+</p>
+
+<p><strong>Title:</strong> On Safety, Assurance and Reliability:  A Software Engineering Perspective</p>
+
+<p><a href="https://www.youtube.com/watch?v=uE8KNSU1MYE&ab_channel=FormalMethodsEurope">Watch the keynote session on YouTube</a></p>
+
+<p>
 <strong>Abstract:</strong> From financial services platforms to social networks to vehicle control, software has come to mediate many activities of daily life. Governing bodies and standards organizations have responded to this trend by creating regulations and standards to address issues such as safety, security and privacy. In this environment, the compliance of software development to standards and regulations has emerged as a key requirement. Compliance claims and arguments are often captured in assurance cases, with linked evidence of compliance. Evidence can come from testcases, verification proofs, human judgement, or a combination of these. That is, we try to build (safety-critical) systems carefully according to well justified methods and articulate these justifications in an assurance case that is ultimately judged by a human.
 Building safety arguments for traditional software systems is difficult ­­ they are lengthy and expensive to maintain, especially as software undergoes change. Safety is also notoriously non­compositional ­­ each subsystem might be safe but together they may create unsafe behaviors. It is also easy to miss cases, which in the simplest case would mean developing an argument for when a condition is true but missing arguing for a false condition. Furthermore, many ML­based systems are becoming safety­critical.  For example, recent Tesla self­driving cars misclassified emergency vehicles and caused multiple crashes. ML­based systems typically do not have precisely specified and machine­verifiable requirements. While some safety requirements can be stated clearly: "the system should detect all pedestrians at a crossing", these requirements are for the entire system, making them too high­level for safety analysis of individual components. Thus, systems with ML components (MLCs) add a significant layer of complexity for safety assurance.
 I argue that safety assurance should be an integral part of building safe and reliable software systems, but this process needs support from advanced software engineering and software analysis. In this talk, I outline a few approaches for development of principled, tool-supported methodologies for creating and managing assurance arguments. I then describe recent work on specifying and verifying reliability requirements for machine-learned components in safety-critical domains.
@@ -49,6 +53,9 @@ I argue that safety assurance should be an integral part of building safe and re
 <img src="{{ '/assets/Sebas.jpeg' | relative_url }}" class="imageSpeaker" align="left"/>
 </p><p>
 <strong>Title:</strong> Controller synthesis for Adaptive Mobile Robots. Abstractions, all change!?</p>
+
+<p><a href="https://www.youtube.com/watch?v=zBg515ZvmYc&ab_channel=FormalMethodsEurope">Watch the keynote session on YouTube</a></p>
+
 <p>
 <strong>Abstract:</strong> Discrete event controller synthesis promises correct-by-construction strategies for controlling reactive systems to ensure user specified goals. Runtime synthesis takes this one step further, enabling correct runtime adaptation when a reactive system's goals, capabilities, or environment change. The need for synthesis in mobile robotic systems is particularly telling. Despite the wide availability of general purpose mobile robots (particularly Unmanned Aerial Vehicles - UAVs), the ability of end-users (individuals and organisations) to exploit them to their full potential is limited. Either complex and error prone programming is required or graphical mission planning interfaces are used to model simple, non-reactive missions.  The use of synthesis and runtime synthesis for mobile robots has many challenges ahead. In this talk I will discuss how we addressed some of them by revisiting both (1) the abstractions used to specify and synthesise discrete event controllers and (2) the architectural abstractions needed to successfully deploy synthesis technology on both fixed wing and multi-rotor systems.</p>
 <p>
