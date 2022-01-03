@@ -13,7 +13,7 @@ permalink: /
    </div>
 <h2 class="secondH">* NEWS *</h2>
 <ul>
-  <li>The SEFM main conference proceedings are published in the Formal Methods subline of Springer's Lecture Notes in Computer Science, and <a href="https://link.springer.com/book/10.1007/978-3-030-92124-8">can be accessed at this link</a> for several weeks starting on Thursday 2 December 2021.</li>
+  <li>The SEFM main conference proceedings are published in the Formal Methods subline of Springer's Lecture Notes in Computer Science, and <a href="http://link.springer.com/openurl.asp?genre=issue&issn=0302-9743&volume=13085">can be accessed at this link</a>.</li>
 </ul>    
 <h2 class="secondH">Welcome to SEFM 2021</h2>
 <p>The 19th edition of the International Conference on Software Engineering and
