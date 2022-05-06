@@ -6,4 +6,4 @@
 * **2018: Toulouse, France,** 27-29 June [https://www.isf.cs.tu-bs.de/cms/events/sefm2018/](https://www.isf.cs.tu-bs.de/cms/events/sefm2018/)
 * **2017: Trento, Italy,** 4-8 September ([https://sefm17.fbk.eu](https://sefm17.fbk.eu))
 * **2016: Vienna, Austria,** 4-8 July ([http://staf2016.conf.tuwien.ac.at/sefm/](http://staf2016.conf.tuwien.ac.at/sefm/))
-* **2015: York, UK,**, 7-11 September ([https://www.cs.york.ac.uk/sefm2015/index.html](https://www.cs.york.ac.uk/sefm2015/index.html))
+* **2015: York, UK,** 7-11 September ([https://www.cs.york.ac.uk/sefm2015/index.html](https://www.cs.york.ac.uk/sefm2015/index.html))
