@@ -1,7 +1,10 @@
 # SEFM - International Conference on<br>SOFTWARE ENGINEERING AND FORMAL METHODS
 
-# SEFM 2022 will be held on 28-30 September 2022<br> in Berlin, Germany ([https://sefm-conference.github.io/2022/](https://sefm-conference.github.io/2022/))
+Participants at SEFM 2021 can freely download the LNCS volume containing the
+<div class="aside"><a href="https://link.springer.com/book/10.1007/978-3-031-12429-7 target="blank" rel="noopener">Proceedings of the SEFM 2021 collocated events</a>.</div>
+
 # Previous SEFM Events
+* **2022: Berlin, Germany,** 26-30 September([https://sefm-conference.github.io/2022/](https://sefm-conference.github.io/2022/))
 * **2021: online,** 6-10 December ([https://sefm-conference.github.io/2021/](https://sefm-conference.github.io/2021/))
 * **2020: online, planned in Amsterdam, The Netherlands,** 14-17 September ([https://event.cwi.nl/sefm2020/](https://event.cwi.nl/sefm2020/))
 * **2019: Oslo, Norway,** 16-20 September ([http://sefm2019.inria.fr](http://sefm2019.inria.fr))
