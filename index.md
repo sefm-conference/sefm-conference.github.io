@@ -1,6 +1,6 @@
 # SEFM - International Conference on<br>SOFTWARE ENGINEERING AND FORMAL METHODS
 
-Participants at SEFM 2021 can freely download the LNCS volume containing the
+SEFM 2021 participants can freely download the LNCS volume containing the
 [Proceedings of the SEFM 2021 collocated events](https://link.springer.com/book/10.1007/978-3-031-12429-7).
 
 # Previous SEFM Events
