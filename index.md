@@ -1,7 +1,8 @@
 # SEFM - International Conference on<br>SOFTWARE ENGINEERING AND FORMAL METHODS
 
 SEFM 2021 participants can freely download the LNCS volume containing the
-[Proceedings of the SEFM 2021 collocated events](https://link.springer.com/book/10.1007/978-3-031-12429-7).
+[Proceedings of the SEFM 2021 collocated events](https://link.springer.com/book/10.1007/978-3-031-12429-7)
+until the end of November 2022.
 
 # Previous SEFM Events
 * **2022: Berlin, Germany,** 26-30 September ([https://sefm-conference.github.io/2022/](https://sefm-conference.github.io/2022/))
