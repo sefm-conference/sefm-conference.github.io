@@ -1,9 +1,9 @@
 # SEFM - International Conference on<br>SOFTWARE ENGINEERING AND FORMAL METHODS
 
-# Next SEFM Events
+## Next SEFM Events
 * **2023: Eindhoven, The Netherlands,** Dates TBA ([https://sefm-conference.github.io/2023/](https://sefm-conference.github.io/2023/))
 
-# Previous SEFM Events
+## Previous SEFM Events
 * **2022: Berlin, Germany,** 26-30 September ([https://sefm-conference.github.io/2022/](https://sefm-conference.github.io/2022/))
 * **2021: online,** 6-10 December ([https://sefm-conference.github.io/2021/](https://sefm-conference.github.io/2021/))
 * **2020: online, planned in Amsterdam, The Netherlands,** 14-17 September ([https://event.cwi.nl/sefm2020/](https://event.cwi.nl/sefm2020/))
