@@ -1,7 +1,7 @@
 # SEFM - International Conference on<br>SOFTWARE ENGINEERING AND FORMAL METHODS
 
 ## Next SEFM Events
-* **2025: Toledo, Spain,** 10-14 November ([https://sefm-conference.github.io/2025/](https://sefm-conference.github.io/2025/ - coming soon!))
+* **2025: Toledo, Spain,** 10-14 November ([https://sefm-conference.github.io/2025/ - coming soon!](https://sefm-conference.github.io/2025/)
 
 ## Previous SEFM Events
 * **2024: Aveiro, Portugal,** 4-8 November ([https://sefm-conference.github.io/2024/](https://sefm-conference.github.io/2024/))
