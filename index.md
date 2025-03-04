@@ -1,9 +1,10 @@
 # SEFM - International Conference on<br>SOFTWARE ENGINEERING AND FORMAL METHODS
 
 ## Next SEFM Events
-* **2024: Aveiro, Portugal,** 4-8 November ([https://sefm-conference.github.io/2024/](https://sefm-conference.github.io/2024/))
+* **2025: Toledo, Spain,** 10-14 November ([https://sefm-conference.github.io/2025/](https://sefm-conference.github.io/2025/ - coming soon!))
 
 ## Previous SEFM Events
+* **2024: Aveiro, Portugal,** 4-8 November ([https://sefm-conference.github.io/2024/](https://sefm-conference.github.io/2024/))
 * **2023: Eindhoven, The Netherlands,** 6-10 November ([https://sefm-conference.github.io/2023/](https://sefm-conference.github.io/2023/))
 * **2022: Berlin, Germany,** 26-30 September ([https://sefm-conference.github.io/2022/](https://sefm-conference.github.io/2022/))
 * **2021: online,** 6-10 December ([https://sefm-conference.github.io/2021/](https://sefm-conference.github.io/2021/))
